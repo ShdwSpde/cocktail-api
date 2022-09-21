@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-image: url('https://i.ibb.co/ZMbR8q6/bar.jpg');
+  background-repeat:no-repeat ;
+  background-position: cover ;
+}
+
+img{
+  height:50vh;
+  margin: 0 auto;
+}
+
+h1{
+  color:white;
+  text-shadow: 1px 1px black;
+}
+
+h2{
+  color:red;
+  text-shadow: 1px 1px white;
+}
+
+h3 {
+  color: wheat;
+}
+
+p{
+  color:white;
+}
